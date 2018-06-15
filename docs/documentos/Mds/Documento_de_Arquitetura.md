@@ -44,7 +44,7 @@ ___
 
 ### <a name="1.1"></a>1.1. Finalidade
 
-<p>Neste documento será apresentada a visão arquitetônica sobre a aplicação webapp de Gerencia mais- GM, com a finalidade de elucidar, explicar e formalizar como será modelada a arquitetura do software, tendo como base diferentes características do projeto para justificar as decisões tomadas pelos desenvolvedores.<p>
+<p> Neste documento será apresentada a visão arquitetônica sobre a aplicação webapp de Gerencia mais- GM, com a finalidade de elucidar, explicar e formalizar como será modelada a arquitetura do software, tendo como base diferentes características do projeto para justificar as decisões tomadas pelos desenvolvedores. <p>
 
 ### <a name="1.2"></a>1.2. Escopo
 
