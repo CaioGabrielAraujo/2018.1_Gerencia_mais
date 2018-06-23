@@ -38,3 +38,9 @@
   * 5.3 [Pacotes de Design Significativos do Ponto de Vista da Arquitetura](#5.3)  
 6. [Desempenho](#6)
 7. [Qualidade](#7)
+
+## 1.  Introdução
+
+### 1.1. Finalidade
+
+Neste documento será apresentada a visão arquitetônica sobre a aplicação webapp de Gerencia mais- GM, com a finalidade de elucidar, explicar e formalizar como será modelada a arquitetura do software, tendo como base diferentes características do projeto para justificar as decisões tomadas pelos desenvolvedores.
