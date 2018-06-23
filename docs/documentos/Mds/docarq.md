@@ -48,3 +48,33 @@ Neste documento será apresentada a visão arquitetônica sobre a aplicação we
 ### 1.2. Escopo
 
 Este documento tem como objetivo documentar a arquitetura a ser implementada no software, guiando os desenvolvedores na construção do projeto que auxilia o gerenciamento de servidores, recursos médicos e recursos físicos do Hospital Regional do Gama - HRG.
+
+### 1.3. Definições, acrônimos e abreviações
+
+* FGA - Faculdade do Gama.
+
+* UnB - Universidade de Brasília.
+
+* EPS - Engenharia de Projeto de Software.
+
+* GM - Gerencia Mais
+
+* Servidores - A quem compete prescrever medicamentos, exames e recomendações de saúde.
+
+* Recursos médicos - Equipamentos tais como seringas, luvas, remédios.
+
+* Recursos físicos - Salas de consulta, salas de cirurgia.
+
+* HRG - Hospital Regional do Gama.
+
+### 1.4 Referências
+
+* Como documentar a Arquitetura de Software. Disponível em: http://www.linhadecodigo.com.br/artigo/3343/como-documentar-a-arquitetura-de-software.aspx. Acesso em: 27 mar. 2018;
+
+* FREIRE, Thiago; OLIVEIRA, Rodrigo; MORENO, Augusto; NASCIMENTO, Josué; AUGUSTO, Marcelo. Projeto WikiLegis: Documento de Arquitetura. Disponível em: https://github.com/fga-gpp-mds/2016.2-WikiLegis/wiki/Documento-de-Arquitetura. Acesso em 27 mar. 2018;
+
+* SILVA, Ana; DINIZ, Arthur; OLIVEIRA, Bruna; SILVA, Guilherme; LACERDA, GuilhermE. Projeto Trezentos: Documento de Arquitetura. Disponível em: https://github.com/fga-gpp-mds/2017.1-Trezentos/wiki/Documento-de-Arquitetura. Acesso em 27 mar. 2018;
+
+* BATISTA, Matheus; ARAÚJO, Igor; WILLER, Guilherme; OLIVEIRA, Vinícius; BARCELOS, Filipe; SOUSA, André. Projeto Escola X: Documento de Arquitetura. Disponível em: https://github.com/fga-gpp-mds/2017.1-Escola-X/wiki/Documento-de-Arquitetura. Acesso em 27 mar. 2018;
+
+* BORGES, Felipe; HIROSHI, Lucas; MARQUES, Guilherme; KISHIMA, Lucas; NASCIMENTO, Mateus; MARTINS, Michel; MARIA, Natália; Projeto Receituário Médico: Documento de Arquitetura. Disponível em: https://github.com/fga-gpp-mds/2017.2-Receituario-Medico/wiki/Documento-de-Arquitetura. Acesso em 27 mar. 2018.
