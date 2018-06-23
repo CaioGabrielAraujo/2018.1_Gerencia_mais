@@ -174,10 +174,7 @@ As principais classes do ponto de vista da arquitetura do software e as implemen
 
 Visão geral da aplicação do ponto de vista de pacotes e aplicativos dentro da arquitetura do sistema.
 
-![Documento de Arquitetura][diag]
-
 <img src="{{ site.baseurl }}/documentos/imagens/Documento_de_arquitetura/PackageDiagram.png">
-"Documento de Arquitetura"
 
 ## 6.  Desempenho
 
@@ -185,6 +182,6 @@ Nosso software vai manipular informações relacionadas aos médicos do hospital
 
 
 
-## <7.  Qualidade
+## 7.  Qualidade
 
 O padrão de arquitetura MVT organiza as camadas da aplicação de forma que elas se tornem mais independentes, proporcionando aos desenvolvedores uma manutenção mais fácil e o maior reaproveitamento de classes em partes do projeto no futuro. O uso do React proporciona uma grande reusabilidade dos componentes, evitando problemas de repetição no código, apesar de que a reusabilidade não pode ser obtida apenas por meio de tecnologia, ela exige processos implementados de forma consistente entre as equipes e compromisso em todos os níveis de uma organização.
