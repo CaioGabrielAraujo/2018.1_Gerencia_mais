@@ -44,3 +44,7 @@
 ### 1.1. Finalidade
 
 Neste documento será apresentada a visão arquitetônica sobre a aplicação webapp de Gerencia mais- GM, com a finalidade de elucidar, explicar e formalizar como será modelada a arquitetura do software, tendo como base diferentes características do projeto para justificar as decisões tomadas pelos desenvolvedores.
+
+### 1.2. Escopo
+
+Este documento tem como objetivo documentar a arquitetura a ser implementada no software, guiando os desenvolvedores na construção do projeto que auxilia o gerenciamento de servidores, recursos médicos e recursos físicos do Hospital Regional do Gama - HRG.
