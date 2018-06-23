@@ -1,4 +1,6 @@
-# Controle de versão:
+# Documento de Arquitetura
+
+## Controle de versão:
 
 |Data         |Versão|Descrição                              |Autor               |
 |---        |---   |---                                    |---                 |
@@ -17,7 +19,7 @@
 |16/04/2018 |1.4   |Corrigir erros ortográficos | João Vitor  |
 
 
-# Sumário
+## Sumário
 1. [Introdução](#1)
   * 1.1 [Finalidade](#1.1)
   * 1.2 [Escopo](#1.2)
@@ -120,15 +122,13 @@ O framework usado como backend do nosso *webapp*, o Django, é baseado no modelo
 - *View*: A view no caso do Django faz o papel da controller uma vez que ela é quem faz as interações entre a model e a template. Neste caso as ações que ocorrerão no template serão passadas pelo Rest framework para o react que também fará o papel intermediário entre model e template.
 
 
-  ![Documento de Arquitetura][logo]
-
   <img src="{{ site.baseurl }}/documentos/imagens/Documento_de_arquitetura/snippod-boilerplate-stack.png">
   "Documento de Arquitetura"
   Figura 1- Diagrama do um MTV com react, retirado no site em 27/03/2018.
 
-  ___
 
   ## 3. Metas e Restrições da arquitetura
+
   ### 3.1 Metas
   O sistema a ser desenvolvido deve ter uma interface amigável ao usuário, responder as requisições em poucos segundos, além de seguir um padrão de arquitetura que ajude na manutenibilidade do software.
 
